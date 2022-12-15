@@ -1,0 +1,19 @@
+id: A33E8486F
+title: Toh_245-The_Sections_of_Dharma-v2
+type: translation
+pechas:
+- I5A46D087
+- I063C9111
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-066-003
+  title: Toh_245-The_Sections_of_Dharma-v2
+alignment_to_base:
+  I5A46D087/B3B4: EA11
+  I063C9111/7F0B: EA11
